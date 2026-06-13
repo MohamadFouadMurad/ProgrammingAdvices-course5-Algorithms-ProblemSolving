@@ -9,3 +9,4 @@ Release/
 *.vcxproj
 *.vcxproj.filters
 *.vcxproj.user
+*.json
